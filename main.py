@@ -110,7 +110,7 @@ def task2_Bezie(points):
 if __name__ == '__main__':
 
     file = open(os.path.join(os.getcwd(), '16.json'))
-    """
+
     points = json.load(file)["curve"]
     
     #print(points)
@@ -127,3 +127,4 @@ if __name__ == '__main__':
     points=data["points"]
     indices = data["indices"] #13x13 always
     grid=data["gridSize"]
+"""
