@@ -1,10 +1,10 @@
 # MBCG Test #2 (Variant 16)
 ## Task 1 - NURBS Spline (curve)
-###Result (yellow - control points, red - data points):
+###Result (yellow - control points, red - data points):  
 ![result](task1_1.png)
 
 ## Task 2 - Bezier Surface
-###Results:
+###Results:  
 ![result1](task2_1.png)
 ![result2](task2_2.png)
 ![result3](task2_3.png)
